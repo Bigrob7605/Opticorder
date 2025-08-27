@@ -86,7 +86,10 @@
 ├── README.md                     # This file - project overview
 ├── AGENT_READ_FIRST.md          # Project context and rules
 ├── GAME_PLAN.md                 # Development roadmap
+├── STATUS.md                    # Project status tracking
 ├── build_whitepaper.ps1         # Build script for LaTeX compilation
+├── index.html                   # GitHub Pages showcase website
+├── LICENSE                      # Apache 2.0 license
 └── image.png                    # Project image for white paper
 ```
 
