@@ -88,7 +88,11 @@
 ├── GAME_PLAN.md                 # Development roadmap
 ├── STATUS.md                    # Project status tracking
 ├── build_whitepaper.ps1         # Build script for LaTeX compilation
-├── index.html                   # GitHub Pages showcase website
+├── docs/                        # GitHub Pages website folder
+│   ├── index.html               # Main showcase page
+│   ├── image.png                # Project image
+│   └── README.md                # Pages documentation
+├── .github/workflows/           # GitHub Actions for deployment
 ├── LICENSE                      # Apache 2.0 license
 └── image.png                    # Project image for white paper
 ```
